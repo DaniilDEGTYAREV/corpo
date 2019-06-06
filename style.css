@@ -1,0 +1,66 @@
+.main{
+	background: silver;
+	height: 2600px;
+	padding-top: 100px;
+	box-sizing: border-box;
+}
+.but_block{
+	height: 130px;
+	background: grey;
+	padding-top: 20px;
+	box-sizing: border-box;
+	padding-left: 50px;
+}
+.p_but{
+	color: black;
+	font-family: Arial;
+	font-weight: 600px;
+	margin-top: 20px;
+}
+.block{
+	background: white;
+	height: 450px;
+	width: 1000px;
+	margin-left: 300px;
+	text-align: center;
+	padding-top: 50px;
+	box-sizing: border-box;
+}
+.p_b{
+	text-align: center;
+	font-size: 40px;
+	font-family:  Arial;
+}
+.p_b1{
+	color: white;
+	font-family: Arial;
+	font-size: 40px;
+	text-align: center;
+}
+.p_b2{
+	color: white;
+	font-family: Arial;
+	font-size: 40px;
+	text-align: center;
+}
+.p_b3{
+	color: white;
+	font-family: Arial;
+	font-size: 40px;
+	text-align: center;
+}
+.img_b1{
+	margin-left: 360px;
+	height: 500px;
+	width: 800px;
+}
+.img_b3{
+	margin-left: 360px;
+	height: 500px;
+	width: 800px;
+}
+.img_b2{
+	margin-left: 360px;
+	height: 400px;
+	width: 800px;
+}
